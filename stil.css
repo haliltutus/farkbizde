@@ -1,0 +1,11 @@
+.ana 	{width:1000px; heigith: auto; margin-left:auto; margin-right:auto}
+.logo 	{width: 150px; height:150px; float: left; background-image:url(image/logo.jpg)}
+.banner {width:840px; height:85px; float: left; margin: 0 0 0 10px; background-color:#003466; border-radius:10px; color:#fff; font:bold 15px tahoma; text-align:center; padding:65px 0 0 0}
+.menu 	{width: 850px; height:40px; float:left; margin: 10px 0 0 0; background-color:#00468c}
+.sosyal {width: 140px; height:40px; float: left; margin: 7px 0 0 5px}
+.icerik {width: 1000px; height:480px; float:left; margin:10px 0 0 0; background-color:#016dd9 }
+.reklam1{width: 242px; height:150px; float:left; margin:10px 0 10px 0; background-color:#4da6ff }
+.reklam2{width: 243px; height:150px; float:left; margin:10px 0 0 10px; background-color:#99cdff }
+.reklam3{width: 243px; height:150px; float:left; margin:10px 0 0 10px; background-color:#bedffe}
+.reklam4{width: 242px; height:150px; float:left; margin:10px 0 0 10px; background-color:#bedffc }
+.alt	{width: 1000px; height: 60px; float:left; margin:5px 0; background-color:#bfeefe; border-radius: 15px} 
